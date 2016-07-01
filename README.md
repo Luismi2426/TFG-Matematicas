@@ -19,8 +19,8 @@
 - Descargar los archivos 
 - Situarnos en el directorio en el que se encuentran y ejecutar:
 
-``` git 
-$ clone https://github.com/Luismi2426/TFG-Matematicas.git 
+``` 
+$ git clone https://github.com/Luismi2426/TFG-Matematicas.git 
 $ cd TFG-Matematicas 
 $ npm install 
 $ node server.js 
@@ -29,5 +29,12 @@ $ node server.js
 
 ## Ejecución mediante Heroku
 
+Para subir el archivo a la nube, se han seguido los siguientes recursos:
+- [Scotch.io] (https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku)
+- [Heroku] (https://devcenter.heroku.com/articles/deploying-nodejs)
+- [How to Node] (https://howtonode.org/deploy-blog-to-heroku)
 
-
+Las implementaciones se pueden ver en:
+- [a280] (https://tfg16luismi280.herokuapp.com)
+- [d657] (https://tfg16luismi657.herokuapp.com)
+- [d1291] (https://tfg16luismi1291.herokuapp.com)
