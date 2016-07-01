@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+	
+<head>
+	
+	<title>TFG - Luis Miguel Barbero Juvera</title>
+	
+	<meta charset="UTF-8">
+	<meta name="description" content="TFG - Luis Miguel Barbero Juvera">
+	<meta name="author" content="Luis Miguel Barbero Juvera">
+	
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script src='../js/genetics.js'></script>
+	<script src='../js/islands.js'></script>
+	<script src='../js/client.js'></script>
+
+	<style>
+		
+		#header {
+			text-align:center;
+			padding:5px;
+		}	
+		
+		#nav {
+    	max-height: 100px;
+    	max-width:100px;
+    	float:right;
+    	padding:5px; 
+		}		
+		
+		#section {
+    	width:90%;
+    	float:left;
+    	padding:2px; 
+		}	
+		
+		#graphic {
+    	float:left;
+    	padding:2px; 
+		}	
+		
+		h1.title {
+			font-style: italic;
+		}	
+		
+		h3.title {
+    	font-style: italic;
+		}	
+		
+	</style>
+	
+</head>
+	
+<body>
+	
+	<div id='header'>
+		<h1>Implementación de programas distribuidos sobre navegadores web</h1>
+	</div>
+	
+	<hr>
+	
+	<div id='nav'>
+		<a href='/'>Inicio</a>
+	</div>
+	
+	<div id='section'>
+		<h3 class='title'>Coste del camino</h3>
+		<p id='value'></p>
+		<h3 class='title'>Ruta</h3>
+		<p id='tour' style='overflow:auto'></p>
+	</div>
+	
+	<div id='graphic'>
+		<h3 class='title'>Esquema</h3>
+		<canvas id='myCanvas'>
+		Your browser does not support the HTML5 canvas tag.
+		</canvas>
+	</div>
+	
+	<script src='../js/canvas.js'></script>
+	
+</body>
+	
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "tfg_luis_miguel_barbero_juvera",
+  "version": "1.0.0",
+  "description": "Este es el tfg de Luis Miguel Barbero Juvera",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "body-parser": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   	"start": "node server.js"
+  },
+	"engines": {
+  	"node": "4.3.0"
+  },
+  "author": "Luis Miguel Barbero Juvera",
+  "license": "ISC"
+}
