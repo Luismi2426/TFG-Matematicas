@@ -20,10 +20,10 @@
 - Situarnos en el directorio en el que se encuentran y ejecutar:
 
 ``` git 
-clone https://github.com/Luismi2426/TFG-Matematicas.git 
-cd TFG-Matematicas 
-npm install 
-node server.js 
+$ clone https://github.com/Luismi2426/TFG-Matematicas.git 
+$ cd TFG-Matematicas 
+$ npm install 
+$ node server.js 
 ``` 
 - La aplicación se ejecuta en el puerto 5000
 
