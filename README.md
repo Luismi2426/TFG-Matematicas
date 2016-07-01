@@ -3,7 +3,8 @@
 - Título: Implementación de programas distribuidos sobre navegadores web 
 - Autor: Luis Miguel Barbero Juvera
 - Director: Fernando Rubio Diez 
-- Trabajo de Fin de Grado en Matemáticas
+- Trabajo de Fin de Grado
+- Grado en Matemáticas
 - Universidad Complutense de Madrid
 
 ## Descripción 
