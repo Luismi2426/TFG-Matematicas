@@ -38,3 +38,11 @@ Las implementaciones se pueden ver en:
 - [a280] (https://tfg16luismi280.herokuapp.com)
 - [d657] (https://tfg16luismi657.herokuapp.com)
 - [d1291] (https://tfg16luismi1291.herokuapp.com)
+
+## Recursos
+
+- [J.J. Merelo] (https://github.com/JJ/IDC-keynote)
+- [Chaoyu Yang (parano)] (https://github.com/parano/GeneticAlgorithm-TSP)
+- [Node.js] (https://nodejs.org/en/)
+- [Express] (http://expressjs.com/)
+- [Heroku] (https://www.heroku.com/)
