@@ -20,10 +20,11 @@ function mainAux(cities) {
 			var myBest = info.best;
 			var myIndex = info.index;
 			var islSize = myInd.length;
-
-			var myPop = new Population(myInd, POP_SIZE, myCities);
+	
+			var myPop = new Population(myInd, POP_SIZE, cities);
 			popFill(myPop);
-
+			evaluate(myPop);
+			
 			var result = mainGen(myPop, myBest, GENS);
 			var newPop = result[0];
 			var actualBest = result[1];
