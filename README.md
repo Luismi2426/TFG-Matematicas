@@ -41,9 +41,9 @@ Las implementaciones se pueden ver en:
 
 ## Ejecución mediante Cloud9
 
-Por las características de las cuentas gratuitas de Cloud9, es posible que al pulsar sobre los enlaces las páginas no se muestren. Esto se debe a que tras un periodo de inactividad el servidor se para y necesita ser relanzado manualmente por el propietario de la cuenta en la que se encuentra el workspace: [Cloud9 inactve Workspace] (https://docs.c9.io/docs/inactive-workspaces)
+Por las características de las cuentas gratuitas de Cloud9, es posible que al pulsar sobre los enlaces las páginas no se muestren. Esto se debe a que tras un periodo de inactividad, el servidor se para y necesita ser relanzado manualmente por el propietario de la cuenta: [Cloud9 inactve Workspace] (https://docs.c9.io/docs/inactive-workspaces)
 
-El proceso seguido para subir los archivos y ejecutar los se encuentra en: [Cloud9] (https://docs.c9.io/docs/getting-started)
+El proceso seguido para subir los archivos y ejecutarlos se encuentra en: [Cloud9] (https://docs.c9.io/docs/getting-started)
 
 Las implementaciones se pueden ver en:
 - [a280] (https://tfg16luismi280-luismi2426.c9users.io/)
